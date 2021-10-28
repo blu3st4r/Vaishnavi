@@ -1,4 +1,4 @@
-Hi, I’m @blu3st4r
+Hi, I’m @blu3st4r.
 I’m interested in learning new things.
 I’m currently learning about github.
 
